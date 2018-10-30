@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="list_item_height">88dp</dimen>
+    <dimen name="child_list_item_height">164dp</dimen>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+
+    <string name="category_places">Места</string>
+    <string name="category_museums">Музеи</string>
+    <string name="category_monuments">Памятники</string>
+
+</resources>
